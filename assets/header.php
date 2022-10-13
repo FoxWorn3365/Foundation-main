@@ -23,7 +23,7 @@
   <div id='head' class='w3-display-container foundation-head'>
    <div id='presentation'>
     <div id='presentation_video_dir'>
-     <video muted autoplay id='presentation_video' src='/assets/video/main.mp4' class='foundation-main-presentation'></video>
+     <video muted autoplay id='presentation_video' src='https://resources.fcosma.it/foundation/static-cdn/kueg87grh3b79rgibn.mp4' class='foundation-main-presentation'></video>
     </div>
     <div id='presentation_img_div'>
      <img id='presentation_image' class='foundation-main-presentation'>
