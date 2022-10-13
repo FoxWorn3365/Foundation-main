@@ -1,0 +1,53 @@
+.foundation-main {
+  background-color: #0d1117;
+  color: white;
+}
+
+.foundation-menu {
+  z-index: 25;
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  font-size: 25px;
+  padding: 2px;
+  a { text-decoration: none; }
+}
+
+.foundation-dropbox-colored {
+  background-color: #0d1117;
+  color: white;
+}
+
+.foundation-main-presentation {
+  z-index: 1;
+  width: 100%;
+  height: 125%;
+  position: absolute;
+  opacity: 0.2;
+  top: 0px;
+  left: 0px;
+}
+
+.foundation-menu-hover {
+  z-index: 3;
+  position: absolute;
+}
+
+.foundation-content {
+  z-index: 2;
+  position: relative;
+  height: 100%;
+  background-color: #0d1117; 
+  text-align: center; 
+}
+
+.foundation-title {
+  z-index: 5;
+  font-weight: bold;
+  font-size: 75px;
+}
+
+.foundation-head {
+  width: 100%;
+  height: 100%;
+}
